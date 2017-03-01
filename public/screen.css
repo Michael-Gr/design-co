@@ -94,6 +94,10 @@ body {
   display: flex;
 }
 
+.footer-left li{
+  list-style-type: none;
+}
+
 .footer-left h4{
   color: red;
   padding-top: 4px;
